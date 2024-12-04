@@ -1,6 +1,6 @@
 This is just a game im working on and ive just been wanting to learn how to create a game and how best with a flying pizza. :)
 
-Im going to keep each version recorded here in GitHub so i can look back at my progress. So this one is 0.0.0.1 cant waiut to get to 1.0.0.0 never know what could happen. ;)
+Im going to keep each version recorded here in GitHub so i can look back at my progress. So this one is 0.0.0.1 cant wait to get to 1.0.0.0 never know what could happen. ;)
 
 
 

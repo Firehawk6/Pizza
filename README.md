@@ -16,3 +16,9 @@ Why? TBD
 
 Im going on vacation soon so itll help me create the TBD information while i go see my family in Florida.
 Dont expect anyone to read this but this will be a very fun project moving forward.
+
+
+I completely understand that AI is frowned apon when it comes to game development. But for this game all art used in this project 
+is NOT AI generated. I only use AI to help me with coding since im not very good at it and its teaching me how the code works together.
+All the art i have purchased by me by artists in Freelancer websites. Their usernames and platform will be recorded and put into 
+the credits when those are made but for now i will make another doc that has the lists for now on GitHub. 

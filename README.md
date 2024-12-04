@@ -4,10 +4,10 @@ Im going to keep each version recorded here in GitHub so i can look back at my p
 
 
 
-Starting this im just going to put the bas of what i had in mind at this moment of working on the game. 
+Starting this im just going to put the base of what i had in mind at this moment of working on the game. 
 The basics is just what i wanted for v0.0.0.1 i feel like this brushed the surface of starting out that
 it will be a good lookback image for me in the future. IDK call me weird. 
-Who and What? So you are pilot piloting the Pizza (names of player and Pizza are still TBD. 
+Who and What? So you are a pilot piloting the Pizza (names of player and Pizza are still TBD. 
 Time? i think i have an answer but still putting that together.
 Location? Space duh.
 Why? TBD
